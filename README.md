@@ -10,12 +10,6 @@
 
 :earth_americas: My languages - Portuguese: Native | English: Fluent | Spanish: Basic
 
-:mailbox: How to reach me: 
-
-LinkedIn - https://www.linkedin.com/in/afonso-garcia/
-
-Twitter - https://www.twitter.com/afonso_ggarcia/
-
 I enjoy riding :motorcycle:, travelling :world_map:, going :skateboard: and hanging out with friends :beers:.
 
 
