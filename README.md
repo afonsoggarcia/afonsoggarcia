@@ -1,6 +1,6 @@
 # Hi there, I am Afonso Garcia 👋
 
-## Entrepreneur, full stack developer, Web 3 and DeFi enthusiast!
+## Entrepreneur, full stack developer, Web3 and DeFi enthusiast!
 
 :man_technologist: I’m currently working on personal projects to train my skills and improve knowledge in programming.
 
