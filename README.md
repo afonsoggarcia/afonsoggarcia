@@ -22,8 +22,8 @@ I enjoy going to the :weight_lifting_man:, riding :motorcycle:, travelling :worl
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-   <a href="https:www.ruby-lang.org" target="_blank">
-    <img alt="Ruby on rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+   <a href="https://rubyonrails.org/" target="_blank">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   </a>
 </p>
 
