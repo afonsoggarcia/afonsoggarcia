@@ -23,7 +23,7 @@ I enjoy going to the :weight_lifting_man:, riding :motorcycle:, travelling :worl
    </a>
   &emsp;
    <a href="https:www.ruby-lang.org" target="_blank">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%2314354C.svg?logo=ruby&logoColor=white">
+    <img alt="Ruby on rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   </a>
 </p>
 
