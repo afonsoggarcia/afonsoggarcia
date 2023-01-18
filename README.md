@@ -10,7 +10,11 @@
 
 :earth_americas: My languages - Portuguese: Native | English: Fluent | Spanish: Basic
 
-I enjoy riding :motorcycle:, travelling :world_map:, going :skateboard: and hanging out with friends :beers:.
+:mailbox: You can reach me:
+
+LinkedIn - https://www.linkedin.com/in/afonso-garcia/
+
+I enjoy going to the :weight_lifting_man:, riding :motorcycle:, travelling :world_map:, going :skateboard: and hanging out with friends :beers:.
 
 
 <!--
